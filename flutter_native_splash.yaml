@@ -1,0 +1,21 @@
+flutter_native_splash:
+
+  color: "#ecfefd"
+  # ou background_image: "assets/splah.png"
+  image: assets/logo.png
+  branding: assets/branding.png
+
+
+  color_dark: "#0e0114"
+  # ou background_image_dark: "assets/splah.png"
+  image_dark: assets/logo.png
+  branding_dark: assets/branding_dark.png
+
+  branding_mode: bottom
+
+  web: false
+
+  #ios_content_mode: center
+  #web_image_mode: center
+
+  #fullscreen: true
